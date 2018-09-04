@@ -1,0 +1,9 @@
+4 + 2 * 10 + 3 * (5 + 1)
+.
+5 + .
+def _xpto = 10
+_xpto * 2
+DEF a = 55
+def b = a / _xpto
+. * 2
+exit
